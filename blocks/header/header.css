@@ -1,0 +1,10 @@
+.header {
+    width: 100%;
+    max-width: 661px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 29px 21px 33px 21px;
+    box-sizing: border-box;
+    position: relative;
+}

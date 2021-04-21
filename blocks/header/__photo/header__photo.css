@@ -1,0 +1,6 @@
+.header__photo {
+    object-fit: cover;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}

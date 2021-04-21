@@ -1,0 +1,8 @@
+.header__stamp {
+    background-image: url(../../../images/stamp.svg);
+    width: 185px;
+    height: 167px;
+    position: absolute;
+    right: 5px;
+    bottom: 12px;
+}

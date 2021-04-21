@@ -1,0 +1,10 @@
+.skills {
+    width: 100%;
+    max-width: 661px;
+    padding: 37px 20px 44px 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-top: 1px solid #F0F0F0;
+    border-bottom: 1px solid #F0F0F0;
+    height: 253px;
+}
