@@ -11,3 +11,5 @@
 @import url(../blocks/skills/skills.css);
 @import url(../blocks/skills/__title/skill__title.css);
 @import url(../blocks/skills/__container/skills__container.css);
+
+@import url(../blocks/skill/skill.css);
